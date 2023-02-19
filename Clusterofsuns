@@ -1,45 +1,45 @@
 <galaxy>    
     </star>
-	  <star blackHole="false" name="CLUSTER-1" numGasGiants="0" numPlanets="0" size="2.4" temp="118" x="254" y="418">
-    <star blackHole="false" name="CL-2" separation="36.0" size="0.15" temp="200.1"/>
-		<star blackHole="false" name="CL-3" separation="240.0" size="1.2" temp="20.5"/>
-    <star blackHole="false" name="CL-4" separation="64.0" size="0.8" temp="20.9"/>
-		<star blackHole="false" name="CL-5" separation="350.0" size="0.5" temp="250.8"/>
-    <star blackHole="false" name="CL-6" separation="8.0" size="1.1" temp="350.9"/>
-		<star blackHole="false" name="CL-7" separation="725.0" size="2.5" temp="240.8"/>
-    <star blackHole="false" name="CL-8" separation="190.0" size="1.1" temp="280.1"/>
-		<star blackHole="false" name="CL-9" separation="133.0" size="0.2" temp="300.5"/>
-    <star blackHole="false" name="CL-10" separation="74.0" size="1.1" temp="330.1"/>
-		<star blackHole="false" name="CL-11" separation="88.0" size="1.5" temp="270.8"/>
-    <star blackHole="false" name="CL-12" separation="180.0" size="1.1" temp="320.9"/>
-    <star blackHole="false" name="CL-13" separation="360.0" size="0.15" temp="400.1"/>
-		<star blackHole="false" name="CL-14" separation="48.0" size="0.2" temp="300.5"/>
-    <star blackHole="false" name="CL-15" separation="22.0" size="0.8" temp="300.9"/>
-		<star blackHole="false" name="CL-16" separation="350.0" size="0.5" temp="350.8"/>
-    <star blackHole="false" name="CL-17" separation="140.0" size="1.1" temp="410.9"/>
-		<star blackHole="false" name="CL-18" separation="125.0" size="2.5" temp="240.8"/>
-    <star blackHole="false" name="CL-19" separation="260.0" size="1.1" temp="280.1"/>
-		<star blackHole="false" name="CL-20" separation="633.0" size="0.2" temp="250.5"/>
-    <star blackHole="false" name="CL-21" separation="171.0" size="1.1" temp="340.1"/>
-		<star blackHole="false" name="CL-22" separation="123.0" size="1.5" temp="270.8"/>
+	<star blackHole="false" name="CLUSTER-1" numGasGiants="0" numPlanets="0" size="2.4" temp="118" x="254" y="418">
+    	<star blackHole="false" name="CL-2" separation="36.0" size="0.15" temp="200.1"/>
+	<star blackHole="false" name="CL-3" separation="240.0" size="1.2" temp="20.5"/>
+    	<star blackHole="false" name="CL-4" separation="64.0" size="0.8" temp="20.9"/>
+	<star blackHole="false" name="CL-5" separation="350.0" size="0.5" temp="250.8"/>
+    	<star blackHole="false" name="CL-6" separation="8.0" size="1.1" temp="350.9"/>
+	<star blackHole="false" name="CL-7" separation="725.0" size="2.5" temp="240.8"/>
+    	<star blackHole="false" name="CL-8" separation="190.0" size="1.1" temp="280.1"/>
+	<star blackHole="false" name="CL-9" separation="133.0" size="0.2" temp="300.5"/>
+    	<star blackHole="false" name="CL-10" separation="74.0" size="1.1" temp="330.1"/>
+	<star blackHole="false" name="CL-11" separation="88.0" size="1.5" temp="270.8"/>
+    	<star blackHole="false" name="CL-12" separation="180.0" size="1.1" temp="320.9"/>
+    	<star blackHole="false" name="CL-13" separation="360.0" size="0.15" temp="400.1"/>
+	<star blackHole="false" name="CL-14" separation="48.0" size="0.2" temp="300.5"/>
+    	<star blackHole="false" name="CL-15" separation="22.0" size="0.8" temp="300.9"/>
+	<star blackHole="false" name="CL-16" separation="350.0" size="0.5" temp="350.8"/>
+    	<star blackHole="false" name="CL-17" separation="140.0" size="1.1" temp="410.9"/>
+	<star blackHole="false" name="CL-18" separation="125.0" size="2.5" temp="240.8"/>
+    	<star blackHole="false" name="CL-19" separation="260.0" size="1.1" temp="280.1"/>
+	<star blackHole="false" name="CL-20" separation="633.0" size="0.2" temp="250.5"/>
+    	<star blackHole="false" name="CL-21" separation="171.0" size="1.1" temp="340.1"/>
+	<star blackHole="false" name="CL-22" separation="123.0" size="1.5" temp="270.8"/>
         <star blackHole="false" name="CL-23" separation="390.0" size="1.1" temp="520.9"/>
         <planet DIMID="0" name="padakoys" customIcon="MarsLike">
-            <isKnown>false</isKnown>
-            <fogColor>0.5,0.6,0.1</fogColor>
-            <skyColor>0.0,0.9253701,1.0</skyColor>
-            <gravitationalMultiplier>38</gravitationalMultiplier>
-            <orbitalDistance>180</orbitalDistance>
-            <orbitalPhi>-39</orbitalPhi>
-            <avgTemperature>-10</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>58</atmosphereDensity>
-            <generateCraters>true</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>true</generateStructures>
-            <generateGeodes>true</generateGeodes>
-			      <craterFrequencyMultiplier>0.01</craterFrequencyMultiplier>
-			      <biomeIds>minecraft:hell</biomeIds>
-			      <oceanBlock>minecraft:lava</oceanBlock>
-		    </planet>
+            	<isKnown>false</isKnown>
+            	<fogColor>0.5,0.6,0.1</fogColor>
+            	<skyColor>0.0,0.9253701,1.0</skyColor>
+            	<gravitationalMultiplier>38</gravitationalMultiplier>
+            	<orbitalDistance>180</orbitalDistance>
+            	<orbitalPhi>-39</orbitalPhi>
+            	<avgTemperature>-10</avgTemperature>
+            	<rotationalPeriod>24000</rotationalPeriod>
+            	<atmosphereDensity>58</atmosphereDensity>
+            	<generateCraters>true</generateCraters>
+            	<generateVolcanos>false</generateVolcanos>
+            	<generateStructures>true</generateStructures>
+            	<generateGeodes>true</generateGeodes>
+		<craterFrequencyMultiplier>0.01</craterFrequencyMultiplier>
+		<biomeIds>minecraft:hell</biomeIds>
+		<oceanBlock>minecraft:lava</oceanBlock>
+	</planet>
     </star>
 </galaxy>
